@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/mediocregopher/radix/v3/resp/resp2"
+	"github.com/groupme/radix/resp/resp2"
 )
 
 // Scanner is used to iterate through the results of a SCAN call (or HSCAN,
